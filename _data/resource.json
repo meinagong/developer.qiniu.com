@@ -95,7 +95,7 @@
         "name": "javascript",
         "menuName": "JavaScript",
         "label": "SDK for JavaScript (客户端)",
-        "download": "https://github.com/qiniu/js-sdk/releases",
+        "download": "https://github.com/qiniu/js-sdk/archive/master.zip",
         "version": "v1.0.0",
         "date": "2014-02-27",
         "doc": "docs/v6/sdk/javascript-sdk.html",
