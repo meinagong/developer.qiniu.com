@@ -5,8 +5,8 @@
         "title": "objc",
         "label": "SDK for Objective-C (iOS/Mac)",
         "download": "https://github.com/qiniu/objc-sdk/archive/master.zip",
-        "version": "v7.0.2",
-        "date": "2014-10-14",
+        "version": "v7.0.16",
+        "date": "2015-11-21",
         "doc": "docs/v6/sdk/objc-sdk.html",
         "source": "https://github.com/qiniu/objc-sdk"
     }, {
@@ -14,8 +14,8 @@
         "menuName": "Java (Android)",
         "label": "SDK for Java (Android客户端)",
         "download": "https://github.com/qiniu/android-sdk/archive/master.zip",
-        "version": "v6.0.0",
-        "date": "2013-07-04",
+        "version": "v7.0.7.2",
+        "date": "2016-01-22",
         "doc": "docs/v6/sdk/android-sdk.html",
         "show": false,
         "source": "https://github.com/qiniu/android-sdk"
@@ -24,8 +24,8 @@
         "menuName": "Java",
         "label": "SDK for Java (服务端)",
         "download": "https://github.com/qiniu/java-sdk/archive/master.zip",
-        "version": "v6.0.7",
-        "date": "2013-11-7",
+        "version": "v7.0.8",
+        "date": "2016-01-05",
         "doc": "docs/v6/sdk/java-sdk.html",
         "source": "https://github.com/qiniu/java-sdk"
     }, {
@@ -33,8 +33,8 @@
         "menuName": "PHP",
         "label": "SDK for PHP (服务端)",
         "download": "https://github.com/qiniu/php-sdk/archive/master.zip",
-        "version": "v6.1.4",
-        "date": "2013-10-25",
+        "version": "v7.0.7",
+        "date": "2016-01-12",
         "doc": "docs/v6/sdk/php-sdk.html",
         "source": "https://github.com/qiniu/php-sdk"
     }, {
@@ -42,8 +42,8 @@
         "menuName": "Python",
         "label": "SDK for Python (服务端)",
         "download": "https://github.com/qiniu/python-sdk/archive/master.zip",
-        "version": "v6.1.3",
-        "date": "2013-10-24",
+        "version": "v7.0.6",
+        "date": "2015-12-07",
         "doc": "docs/v6/sdk/python-sdk.html",
         "source": "https://github.com/qiniu/python-sdk"
     }, {
@@ -51,8 +51,8 @@
         "menuName": "Ruby",
         "label": "SDK for Ruby (服务端)",
         "download": "https://github.com/qiniu/ruby-sdk/archive/master.zip",
-        "version": "v6.0.0",
-        "date": "2013-09-12",
+        "version": "v6.5.1",
+        "date": "2015-09-24",
         "doc": "docs/v6/sdk/ruby-sdk.html",
         "source": "https://github.com/qiniu/ruby-sdk"
     }, {
@@ -60,8 +60,8 @@
         "menuName": "Node.js",
         "label": "SDK for Node.js (服务端)",
         "download": "https://github.com/qiniu/nodejs-sdk/archive/master.zip",
-        "version": "v6.1.0",
-        "date": "2013-10-08",
+        "version": "v6.1.9",
+        "date": "2015-12-03",
         "doc": "docs/v6/sdk/nodejs-sdk.html",
         "source": "https://github.com/qiniu/nodejs-sdk"
     }, {
@@ -69,8 +69,8 @@
         "menuName": "C#",
         "label": "SDK for C# (服务端)",
         "download": "https://github.com/qiniu/csharp-sdk/archive/master.zip",
-        "version": "v6.0.2",
-        "date": "2013-11-18",
+        "version": "v6.1.5",
+        "date": "2015-02-26",
         "doc": "docs/v6/sdk/csharp-sdk.html",
         "source": "https://github.com/qiniu/csharp-sdk"
     }, {
@@ -78,8 +78,8 @@
         "menuName": "C/C++",
         "label": "SDK for C/C++ (服务端)",
         "download": "https://github.com/qiniu/c-sdk/archive/master.zip",
-        "version": "v6.2.2",
-        "date": "2013-10-14",
+        "version": "v6.2.5",
+        "date": "2015-03-05",
         "doc": "docs/v6/sdk/c-sdk.html",
         "source": "https://github.com/qiniu/c-sdk"
     }, {
@@ -95,9 +95,9 @@
         "name": "javascript",
         "menuName": "JavaScript",
         "label": "SDK for JavaScript (客户端)",
-        "download": "https://github.com/qiniu/js-sdk/releases",
-        "version": "v1.0.0",
-        "date": "2014-02-27",
+        "download": "https://github.com/qiniu/js-sdk/archive/master.zip",
+        "version": "v1.0.9",
+        "date": "2015-09-06",
         "doc": "docs/v6/sdk/javascript-sdk.html",
         "source": "https://github.com/qiniu/js-sdk"
     }],
